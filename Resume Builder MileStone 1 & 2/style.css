@@ -1,0 +1,158 @@
+<<<<<<< HEAD:Resume Builder Module 1 & 2/style.css
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: whitesmoke;
+  font-family: 'Times New Roman';
+}
+
+.container{
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
+#resume {
+  background-color: blue;
+  text-align: center;
+  color: white;
+}
+#name{
+  text-align: center;
+}
+#contact{
+  text-align: center;
+  color: rgba(0, 0, 0, 0.8);
+  margin: 0px;
+  padding: 0px;
+}
+#personalInfo{
+  text-align: center;
+}
+
+#pp{
+  height: 200px;
+  width: 150px;
+}
+
+h2 {
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+
+p,li{
+  margin: 5px;
+}
+
+button {
+  display: block;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: white;
+  border-radius: 10px 10px;
+  border-color: blue;
+  color: blue;
+  margin-left: 330px ;
+}
+
+button:hover{
+  color: white;
+  background-color: blue;
+  border-color: blue;
+}
+=======
+body {
+    font-family:  Calibri;
+    margin: 0;
+    padding: 0;
+    background: rgb(4, 4, 69);
+    background-size: cover; 
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+  
+  .resume1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .resume2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .resume3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .resume4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+   
+  .profile-pic {
+    display: block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto 20px auto;
+    border: 8px solid rgba(9, 9, 197, 0.25);
+  }
+
+  
+  
+  h2, h3 {
+    color: #ffffff;
+    margin-bottom: 10px;
+  }
+  
+  
+  h2 {
+    font-size: 1.8em;
+    color: #000000;
+    color: white;
+  }
+  
+  p, li {
+    color: #ffffff;
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding: 0;
+  }
+  
+  #toggle-skills {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 25px;
+    background-color: #00ff0d;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.1em;
+  }
+  
+  #toggle-skills:hover {
+    background-color: #0056b3;
+    transition-duration: 1s;
+  }
+
+
+  
+  
+>>>>>>> a406d373ba55e2b88726cfba922c419f060a4997:style.css
